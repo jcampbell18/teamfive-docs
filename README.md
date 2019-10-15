@@ -7,4 +7,4 @@ https://docs.google.com/document/d/1wbHqzqiHol-ZpzFDRZcZFupydLQfSaZ_zSxluOLpOeo/
 
 ### UML
 
-![Database UML v1.3](https://jcampbell18.github.io/nothing/database_uml_v1-3.jpg)
+![Database UML v1.4](https://jcampbell18.github.io/nothing/database_uml_v1-4.jpg)
