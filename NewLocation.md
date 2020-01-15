@@ -1,7 +1,7 @@
-## To configure new location: start with a new location with zero objects
+# To configure new location: start with a new location with zero objects
 This example uses location ID 7 as an example
 
-# Step 0: Create Location and note the primary and secondary lat/long and image x/y (image x/y via point-and-click)
+## Step 0: Create Location and note the primary and secondary lat/long and image x/y (image x/y via point-and-click)
 /location/new
 
 primary
@@ -12,7 +12,7 @@ secondary
 lat: 47.490153
 long: -117.585083
 
-# Step 1: Create primary object:
+## Step 1: Create primary object:
 /object/new
 
 {
@@ -30,7 +30,7 @@ long: -117.585083
 	longitude: "-117.585686"
 }
 
-# Step 2: Create secondary object: 
+## Step 2: Create secondary object: 
 /object/new
 
 {
@@ -48,7 +48,7 @@ long: -117.585083
 	longitude: "-117.585083"
 }
 
-# Step 3: Set Scale:
+## Step 3: Set Scale:
 /location/set-scale/7
 
 When SELECT * FROM objects WHERE location_id = e.g. 7 you should see:
@@ -56,3 +56,5 @@ When SELECT * FROM objects WHERE location_id = e.g. 7 you should see:
 object_id,location_id,short_name,long_name,description,object_type_id,x_coordinate,y_coordinate,image_x,image_y,latitude,longitude,active
 264,7,primary,,,4,0,0,84,118,47.489562,-117.585686,1
 265,7,secondary,,,5,218,146,483,697,47.490153,-117.585083,1
+
+
