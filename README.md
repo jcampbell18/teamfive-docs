@@ -29,3 +29,5 @@ https://docs.google.com/document/d/1wbHqzqiHol-ZpzFDRZcZFupydLQfSaZ_zSxluOLpOeo/
 
 [Briefing #8 - Mar 15, 2020](https://docs.google.com/presentation/d/1gPVHgvbLErnLkgrcbh5WuTAUF9wE8AzOlyxsLW2LI4w/edit?usp=sharing)
 
+Final Presentation
+https://docs.google.com/presentation/d/144DDaMcbUIhonpOFNLUKric6PHLwsFMSpEgqGCB_vwc/edit#slide=id.gc6f73a04f_0_0
