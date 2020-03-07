@@ -2,14 +2,6 @@
 
 https://docs.google.com/document/d/1wbHqzqiHol-ZpzFDRZcZFupydLQfSaZ_zSxluOLpOeo/edit#
 
-
-## Database Design
-
-### UML
-
-![Database UML v1.7](https://raw.githubusercontent.com/javanada/teamfive-docs/master/UML/database_uml_v1-7.jpg)
-
-
 ### PowerPoint Briefing Links
 [Briefing #0 - Jan 06, 2020](https://docs.google.com/presentation/d/1UZi28jt1Ra4fkApyLblO1bkt2XBj58D3tDoLa4EhkeU/edit?usp=sharing)
 
@@ -25,9 +17,13 @@ https://docs.google.com/document/d/1wbHqzqiHol-ZpzFDRZcZFupydLQfSaZ_zSxluOLpOeo/
 
 [Briefing #6 - Mar 1, 2020](https://docs.google.com/presentation/d/1N9apbA-cLR1LU1eLx9JcdOblS2MGkCuRx5BkX3wD5TQ/edit?usp=sharing)
 
-[Briefing #7 - Mar 8, 2020](https://docs.google.com/presentation/d/1yQEObWiqgzv587JYULa93sHkPNsxmMID7gHNspeUdek/edit?usp=sharing)
+[Briefing #7 - Mar 10, 2020](https://docs.google.com/presentation/d/1yQEObWiqgzv587JYULa93sHkPNsxmMID7gHNspeUdek/edit?usp=sharing)
 
-[Briefing #8 - Mar 15, 2020](https://docs.google.com/presentation/d/1gPVHgvbLErnLkgrcbh5WuTAUF9wE8AzOlyxsLW2LI4w/edit?usp=sharing)
+### Final Presentation
+[Final Presentation](https://docs.google.com/presentation/d/144DDaMcbUIhonpOFNLUKric6PHLwsFMSpEgqGCB_vwc/edit#slide=id.gc6f73a04f_0_0)
 
-Final Presentation
-https://docs.google.com/presentation/d/144DDaMcbUIhonpOFNLUKric6PHLwsFMSpEgqGCB_vwc/edit#slide=id.gc6f73a04f_0_0
+## Database Design
+
+### UML
+
+![Database UML v1.7](https://raw.githubusercontent.com/javanada/teamfive-docs/master/UML/database_uml_v1-7.jpg)
