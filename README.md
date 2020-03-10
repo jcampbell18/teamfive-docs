@@ -20,9 +20,6 @@
 
 [Briefing #6 - Mar 1, 2020](https://docs.google.com/presentation/d/1N9apbA-cLR1LU1eLx9JcdOblS2MGkCuRx5BkX3wD5TQ/edit?usp=sharing)
 
-[Briefing #7 - Mar 10, 2020](https://docs.google.com/presentation/d/1yQEObWiqgzv587JYULa93sHkPNsxmMID7gHNspeUdek/edit?usp=sharing)
-
-### Final Presentation
 [Final Presentation - Mar 11, 2020](https://docs.google.com/presentation/d/144DDaMcbUIhonpOFNLUKric6PHLwsFMSpEgqGCB_vwc/edit#slide=id.gc6f73a04f_0_0)
 
 ## Database Design
